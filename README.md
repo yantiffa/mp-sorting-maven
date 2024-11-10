@@ -4,7 +4,7 @@ An exploration of sorting in Java.
 
 Authors
 
-* Your name here.
+* Tiffany Yan
 * Samuel A. Rebelsky (starter code)
 
 Acknowledgements
